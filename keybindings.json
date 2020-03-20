@@ -1,0 +1,23 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "f8",
+        "command": "workbench.action.tasks.build"
+    },
+    {
+        "key": "shift+cmd+b",
+        "command": "-workbench.action.tasks.build"
+    },
+    {
+        "key": "cmd+a cmd+t",
+        "command": "workbench.action.toggleActivityBarVisibility"
+    },
+    {
+        "key": "cmd+s cmd+t",
+        "command": "workbench.action.toggleStatusbarVisibility"
+    },
+    {
+        "key": "cmd+a cmd+d",
+        "command": "workbench.action.addRootFolder"
+    }
+]
